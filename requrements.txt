@@ -1,0 +1,12 @@
+# Web Framework
+streamlit
+
+# AI Frameworks (Choose based on your tech stack)
+openai          # If using OpenAI directly
+langchain       # For advanced logic/memory
+langchain-openai # Specific LangChain integration for OpenAI
+anthropic       # If using Claude models
+
+# Utilities
+python-dotenv   # To manage secret API keys locally
+tiktoken        # For counting tokens (optional)
